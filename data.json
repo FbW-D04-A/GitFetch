@@ -1,4 +1,4 @@
-person = [
+let person = '[
 {
 "firstName": "Leo",
 "lastName": "S",
@@ -24,4 +24,4 @@ person = [
 "lastName": "F",
 "age": 30,
 },
-]
+]'
